@@ -1,7 +1,6 @@
 ![SaludosdeCelia](https://user-images.githubusercontent.com/106325280/210613816-c08e2dc8-d32d-4397-afe5-0a595d8fc316.gif)
 ### Hi, I'm Celia! Welcome to my github!
 
-[![Celia Millán GitHub stats](https://github-readme-stats.vercel.app/api?username=CeliaMi)](https://github.com/CeliaMi/github-readme-stats)-->
 <!--
 **CeliaMi/CeliaMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
