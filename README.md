@@ -1,12 +1,16 @@
-![SaludosdeCelia](https://user-images.githubusercontent.com/106325280/210613816-c08e2dc8-d32d-4397-afe5-0a595d8fc316.gif)
+<img src="https://user-images.githubusercontent.com/106325280/210538331-86fae1ed-2d32-4631-8a61-0ccf0490c003.jpg" alt="Texto alternativo" width="150" height="100">
+
 ### Hi, I'm Celia! Welcome to my github!
+I'm passionate about combining creativity and technology to explore new solutions. Are you in?
 
 
-My stack is:  ***JavaScript - React - Node - Express - TypeScript***🐯
+
+
+
+I love ***JavaScript - React - Node - Express - TypeScript***
 >
+Previously, I worked with ***PHP and Laravel***, and I've started exploring ***Python with Django***.
 >
->
->Previously, I've worked with ***PHP - Laravel ~ Symfony***, and I've dabbled in ***Python - Django***.
->
->In my free time, I'm a student in a ***machine learning*** course and I hope to soon incorporate it into my stack
+>I am currently researching machine learning 🧠✨: ***Jupyter Notebook, Pandas, Matplotlib, Seaborn, Plotly.***
+
 
