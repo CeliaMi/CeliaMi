@@ -9,7 +9,6 @@ I'm passionate about combining creativity and technology to explore new solution
 
 I love ***JavaScript - React - Node - Express - TypeScript***
 >
-Previously, I worked with ***PHP and Laravel***, and I've started exploring ***Python with Django***.
 >
 >I am currently researching machine learning 🧠✨: ***Jupyter Notebook, Pandas, Matplotlib, Seaborn, Plotly.***
 
